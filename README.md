@@ -1,4 +1,4 @@
-# **Global Mobile Prices 2025 – Power BI Dashboard **
+# Global Mobile Prices 2025 – Power BI Dashboard 
 
 ## **1. Introduction**
 
@@ -70,6 +70,14 @@ Useful for market positioning and competitive comparison.
 
 Shows customer satisfaction patterns across brands.
 Reveals if premium pricing is justified by higher ratings or if budget brands are outperforming expectations.
+
+# Dashboard UI 
+![Dashboard 1st Page](4aa50d4f-8b55-4b51-8a1d-e9fc95b74f64.jpg)
+
+![Dashboard 2nd Page](9548b64c-8852-4306-8f2b-229c4fc7430a.jpg)
+
+![Dashboard 3rd Page](346fd08b-cf4e-46e3-82f8-a99a6b3809ee.jpg)
+
 
 
 ## **4. Correlation Analysis**
